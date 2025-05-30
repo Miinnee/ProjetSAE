@@ -1,0 +1,7 @@
+
+08:00 - 10:00|Cours de natation|Réservation|Libre|Cours de natation|Libre|Libre|Libre
+10:00 - 12:00|Libre|Libre|Réservation|Libre|Cours de natation|Libre|Libre
+12:00 - 14:00|Réservation|Libre|Cours de natation|Libre|Libre|Libre|Libre
+14:00 - 16:00|Libre|Cours de natation|Libre|Réservation|Cours de natation|Libre|Libre
+16:00 - 18:00|Cours de natation|Libre|Réservation|Cours de natation|Libre|Libre|Libre
+18:00 - 20:00|Réservation|Cours de natation|Libre|Libre|Réservation|Libre|Libre
